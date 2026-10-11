@@ -1,0 +1,1 @@
+Opsional: letakkan video MP4 loop bertema server/teknologi bernama dashboard-loop.mp4 di folder ini. Dashboard sudah memakai autoplay, muted, loop, dan playsinline agar lebih ramah HP. Jika file tidak ada, poster dashboard-poster.svg tetap menjadi latar visual. Gunakan video milik sendiri atau yang memiliki lisensi sesuai.
